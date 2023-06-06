@@ -29,6 +29,12 @@ const initial_expenses = [
     amount: 300,
     date: new Date(2021, 10, 25),
   },
+  {
+    id: "e5",
+    title: "Bike",
+    amount: 300,
+    date: new Date(2021, 9, 25),
+  },
 ];
 
 function App() {
