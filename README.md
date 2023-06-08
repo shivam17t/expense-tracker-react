@@ -1,4 +1,4 @@
-### Expense Tracker 
+### `Expense Tracker` 
 => A react-app which can keep track of your expenses, and also provides you a graphical representation of expenses.
 
 ## Available Scripts
